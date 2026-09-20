@@ -6,3 +6,4 @@ build periodically is working now want to test poll scm the scedule time is at 3
   adding new line
 adding new line at 57
   new build at 58
+now poll scm should stop working
